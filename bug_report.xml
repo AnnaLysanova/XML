@@ -1,1 +1,15 @@
+<note>
+	<Telegram_nickname>@ann_lysanova</Telegram_nickname>
+	<Bug_id>18</Bug_id>
+	<Summary>Title Limit line color does not change to red when reaching the minimum horizontal value of the widget.</Summary>
+	<Comment>With parameters min, min, 4x6 - the color of the lines changes in both options</Comment>
+	<Severity>Minor</Severity>
+	<Priority>Medium</Priority>
+  <Environment>1) Samsung Galaxy Z Flip3 5G, Android 12, 2) Samsung Galaxy SM-A705FNDS, Android 11, 3) Honor 30, Android 10 Magic UI 4.0.0, 4) samsung galaxy a 50 android 11  one ul 3.1, 5) Google Pixel 5, Android 13" </Environment>
+  <Precondition>Add one widget</Precondition>
+  <STR>1) Change widget size horizontally. 2) Change widget size vertically.</STR>
+  <AR>1) Limit line color change to red when reaching minimum horizontal value of widget. 2) Limit line color change to red when reaching minimum vertical value of widget.</AR>
+  <ER>1) Limit line color does not change to red when reaching the minimum horizontal value of the widget. 2) Limit line color change to red when reaching minimum vertical value of widget.</ER>
+  <URL>https://disk.yandex.ru/i/qwacseUungFlaQ</URL>
+</note> 
 
